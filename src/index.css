@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html{
+  font-size: 16px;
+}
+body {  
+  font-family: 'Segoe UI', 'Times New Roman', Times, serif,  sans-serif;
+}
+/* dark background için */
+.my-bg-dark{
+  background-image:  linear-gradient(rgba(0,0,0, .9),rgba(0,0,0, .9)), url('./img/main_bg.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
+}
+.padding-tb-50{
+  padding: 50px 0;
+}
+/* main css*/
+.main-color{
+  color: #DCB18F;
+}
+.bg-main-color{
+  background-color: #DCB18F;
+}
+/* site logo height */
+#header{
+  background:rgba(255,255,255,.9);
+}
+
+#header .logo{
+  height: 70px;
+}
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+/* nav alanı  */
+.navbar-light .navbar-nav .nav-link {
+  color:black !important;
+  border-bottom: 2px solid transparent;
+}
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link:hover, 
+.navbar-light .navbar-nav .nav-link:focus {
+  color: #FFC107 !important;
+  border-bottom-color: #FFC107 ;
+}
+.navbar{
+  z-index: 1020;
+  font-weight:600 ;
+}
+/* page title*/
+.breadcrumb .breadcrumb-item a {  
+    color: #0d6efd;
+    text-decoration: none;
+}
+/* slider section */
+.carousel-indicators [data-bs-target]{
+  background-color:  #3a3937 !important;
+}
+.carousel-control-prev, .carousel-control-next {
+  width: 5% !important;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  background-color: #C1C1C1;
+}
+/* divider */
+#btn-divider:hover {
+  color: #f9fafb;
+  background-color: rgba(0,0,0,.9);
+  border-color: #f9fafb;
+}
+/* products */
+#products .product-img{
+  height: 200px;
+  width: auto;
+  margin: 0 auto;;
+}
+#products  .card{
+  margin: 0 auto;
+}
+#product-details img{
+  height: 400px;
+  width: auto;
+}
+/* about field title bottom line */
+.title-bottom-line{
+  width: 60px;
+  height: 3px;
+  margin: 15px 0 20px 0;
+  background-color:#FFC107;
+}
+#about .card .card-body p{
+  color: lightgray;
+}
+#about .card .card-body p span{
+  font-weight: 500;
+}
+/* contact page ileteişim bilgileri*/
+#contact .card .card-body p span{
+  font-weight: 500;
+}
+/* footer */
+footer .footer{
+  color: lightgray;
+  background-color: #000;
+ 
+}
+/* Media query */
+@media (max-width: 991.98px) { 
+  #header .logo{
+    height: 44px;
+  }  
+ }
+
+@media (max-width: 767.98px) { 
+  .page-title{
+    font-size: 16px;
+  }
+  .page-title-link{
+    font-size: 14px;
+  }
+ }

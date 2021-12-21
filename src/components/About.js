@@ -10,7 +10,7 @@ const About = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Hakkımızda</h5>
                                 <div className="title-bottom-line"></div>
-                                <p className="card-text">2000 Yılında kurulan Sahra Mühendislik sektörde oldukça
+                                <p className="card-text">2000 Yılında kurulan Newbox, sektörde oldukça
                                     kaliteli bir nokta yakalamıştır. Kuruluş yıllarında yalnızca güneş enerjisi ürünleri
                                     satmak hedefi olan firmanın şimdi satış öncesi keşif, projelendirme ve satış sonrası
                                     destek hizmetlerinde de samimi bir noktaya ulaşmıştır.</p>

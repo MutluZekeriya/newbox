@@ -32,7 +32,7 @@ const AboutPage = () => {
                         <div className="col-md-6">
                             <h1> Tarihimiz   </h1>
                             <div className="title-bottom-line"></div>
-                            <p>2000 Yılında kurulan Sahra Mühendislik sektörde oldukça
+                            <p>2000 Yılında kurulan Newbox, sektörde oldukça
                                 kaliteli bir nokta yakalamıştır. Kuruluş yıllarında yalnızca
                                 güneş enerjisi ürünleri satmak hedefi olan firmanın şimdi
                                 satış öncesi keşif, projelendirme ve satış sonrası destek
@@ -41,11 +41,8 @@ const AboutPage = () => {
                                 sıcak su üretme, güneş enerjisinden elektirik enerjisi üretme,
                                 alternatif enerji kaynakları ve bunun yanında mekanik tesisatlar
                                 konusundada bir açılım yaparak bu güne kadar türkiyenin en iyi
-                                firmalarıyla çalışarak kalitesini ispatlamıştır. Sahra
-                                Mühendislik ilkeleleri kaliteli ürünler satmak ve dürüst
-                                hizmet vermektir. Firmamız hakkındaki değerlendirmelerim
-                                bu kadar olup sözü uzatmaya gerek yoktur. Ulaştığımız
-                                bu noktayı referanslarımızda görebilirsiniz.</p>
+                                firmalarıyla çalışarak kalitesini ispatlamıştır. Newbox, ilkeleleri kaliteli ürünler satmak ve dürüst
+                                hizmet vermektir. </p>
                         </div>
                         <div className="col-md-6">
                             <img className="img-fluid rounded" src={Company} alt="" />

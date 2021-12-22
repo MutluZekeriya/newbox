@@ -7,7 +7,7 @@ import AboutPage from '../components/AboutPage';
 import ContactPage from '../components/ContactPage';
 import NotFoundPage from '../components/NotFoundPage';
 import Footer from '../components/Footer';
-import 'bootstrap/dist/css/bootstrap.css'
+
 
 import ProductRuloKarton from '../components/ProductRuloKarton';
 import ProductBalonluNylon from '../components/ProductBalonluNylon';
@@ -26,7 +26,7 @@ const AppRouter = () => {
         <BrowserRouter>
             <Header></Header>
             <Switch>
-                <Route component={HomePage} path="/" exact/>
+                <Route component={HomePage} path="/newbox" exact/>
                 <Route component={ProductPage} path="/product" exact/>
                 <Route component={ProductKartonKutu} path="/product/product1"/>
                 <Route component={ProductRuloKarton} path="/product/product2"/>

@@ -14,7 +14,7 @@ const ProductPage = () => {
                         <div className="col-md-6 col-sm-6 col-6 pt-3">
                             <nav aria-label="breadcrumb align-self-center">
                                 <ul class="breadcrumb justify-content-end page-title-link">
-                                    <li className="breadcrumb-item"><Link to="/"> Newbox </Link></li>
+                                    <li className="breadcrumb-item"><Link to="/newbox"> Newbox </Link></li>
                                     <li className="breadcrumb-item active" aria-current="page">Ürünler</li>
                                 </ul>
                             </nav>

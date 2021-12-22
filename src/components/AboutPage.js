@@ -17,7 +17,7 @@ const AboutPage = () => {
                             <div className="col-md-6 col-sm-6 col-6 pt-3">
                                 <nav aria-label="breadcrumb">
                                     <ul class="breadcrumb justify-content-end  page-title-link">
-                                        <li className="breadcrumb-item"><Link to="/"> Newbox </Link></li>
+                                        <li className="breadcrumb-item"><Link to="/newbox"> Newbox </Link></li>
                                         <li className="breadcrumb-item active" aria-current="page">Hakkımızda</li>
                                     </ul>
                                 </nav>

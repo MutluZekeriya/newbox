@@ -7,7 +7,7 @@ const Header = () => {
         <header id="header" className='sticky-top shadow'>
             <nav className="navbar navbar-expand-md navbar-light py-2 shadow">
                 <div className="container">
-                    <Link className="navbar-brand" to="/">
+                    <Link className="navbar-brand" to="/newbox">
                         <img src={Logo} alt="NewBox" className="img-fluid logo"/>
                     </Link>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -18,7 +18,7 @@ const Header = () => {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav ms-auto">
                             <li className="nav-item">
-                                <NavLink to="/" aria-current="page" className="nav-link text-uppercase" exact>ANASAYFA</NavLink>
+                                <NavLink to="/newbox" aria-current="page" className="nav-link text-uppercase" exact>ANASAYFA</NavLink>
                             </li>
                             <li className="nav-item">
                                 <NavLink to="/product" className="nav-link text-uppercase">ÜRÜNLER</NavLink>

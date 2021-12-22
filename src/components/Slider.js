@@ -1,9 +1,9 @@
 import React from 'react'
 import slide1 from '../img/slider-1.jpg'
 import slide2 from '../img/slider-2.jpg';
-import slide3 from '../img/slider-3.jpg';
-import slide4 from '../img/slide-4.jpg';
-import slide5 from '../img/slide-5.jpg';
+import slide3 from '../img/newbox-banner-1.jpg';
+import slide4 from '../img/newbox-banner-2.jpg';
+import slide5 from '../img/slider-3.jpg';
 
 
 const slider = () => {

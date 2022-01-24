@@ -10,9 +10,13 @@ const ProductBalonluNylonTorba = () => {
                         <img className="img-fluid" src={BalonluNaylonTorba} alt="ürün1" />
                     </div>
                     <div className="col-md-8 col-sm-12">
-                    <h2> Balonlu Naylon Torba</h2>
-                    <p>Karton kutularımız istenilen boyutlarda ve istediğiniz kalitede sizlere sunmaktayız. 
-                        Ürünlerimiz geri dönüşüme uygun olan malzemelerden üretilmiştir.</p>
+                        <h2> Balonlu Patpat ( Naylon ) Torba </h2>
+                        <p> Rulo halinde üretilir ve daha sonra kesimi yapılır. Ürünlerin  korumasında kullanılır.
+                            Korga firmaları, e-ticaret firmaları, sağlık sektörü ve daha farklı bir çok sektörde ambalaj maalzemesi
+                            olarak kullanılır.
+                            Her türlü ölçüde üretimi yapılmaktadır. 
+                            Daha fazla bilgi almak bizimle iletişime geçebilirsiniz.
+                        </p>
                     </div>
                 </div>
             </div>

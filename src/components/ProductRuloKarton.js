@@ -11,8 +11,11 @@ const ProductRuloKarton = () => {
                     </div>
                     <div className="col-md-8 col-sm-12">
                     <h2> Rulo Karton </h2>
-                    <p>Karton kutularımız istenilen boyutlarda ve istediğiniz kalitede sizlere sunmaktayız. 
-                        Ürünlerimiz geri dönüşüme uygun olan malzemelerden üretilmiştir.</p>
+                    <p>
+                    Her türlü ambalajlamada ve koruma amaçlı kullanılır. İstenilen metraj da ebatlanır. 
+                    Koruma kartonu inşaat, tadilat gibi işlerde zemin, boya ve eşya koruma amacıyla kullanılmaktadır.
+                    Ürün hakkında daha fazla bilgi için iletişime geçebilirsiniz.
+                    </p>
                     </div>
                 </div>
             </div>

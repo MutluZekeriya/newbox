@@ -10,9 +10,12 @@ const ProductBaskiliCanta = () => {
                         <img className="img-fluid" src={BaskiliCanta} alt="ürün1" />
                     </div>
                     <div className="col-md-8 col-sm-12">
-                    <h2> Baskılı Çanta </h2>
-                    <p>Karton kutularımız istenilen boyutlarda ve istediğiniz kalitede sizlere sunmaktayız. 
-                        Ürünlerimiz geri dönüşüme uygun olan malzemelerden üretilmiştir.</p>
+                    <h2> Kraft Çanta </h2>
+                    <p>
+                    kraft ve karton çantaları ihtiyacınıza göre düz ve burgu saplı, baskılı ya da baskısız, her renkte üretilir. 
+                    İstediğiniz ebatlarda üritimi yapılmaktadır.
+                    Kraft ve karton çantalar hakkında daha fazla bilgi almak için bizimle iletişime geçebilirsiniz.
+                    </p>
                     </div>
                 </div>
             </div>

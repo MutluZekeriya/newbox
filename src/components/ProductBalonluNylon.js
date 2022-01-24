@@ -11,8 +11,11 @@ const ProductBalonluNylon = () => {
                     </div>
                     <div className="col-md-8 col-sm-12">
                     <h2> Balonlu Naylon</h2>
-                    <p>Karton kutularımız istenilen boyutlarda ve istediğiniz kalitede sizlere sunmaktayız. 
-                        Ürünlerimiz geri dönüşüme uygun olan malzemelerden üretilmiştir.</p>
+                    <p>
+                        Ürünleri darbe çizilme, çarpma, tozlanma, nemlenme, sürtünme ve ezilmelerden koruyan malzemedir. 
+                        Balonlu Naylon ürünümüzün 100cm, 120cm ve 150cm ebatlarımız bulunmaktadır. 
+                        Daha fazla bilgi almak için bizimle iletişime geçebilirsiniz..
+                    </p>
                     </div>
                 </div>
             </div>

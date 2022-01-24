@@ -7,17 +7,27 @@ import AboutPage from '../components/AboutPage';
 import ContactPage from '../components/ContactPage';
 import NotFoundPage from '../components/NotFoundPage';
 import Footer from '../components/Footer';
-
+import 'bootstrap/dist/css/bootstrap.css'
 
 import ProductRuloKarton from '../components/ProductRuloKarton';
 import ProductBalonluNylon from '../components/ProductBalonluNylon';
-import ProductKesimliKutu from '../components/ProductKesimliKutu';
 import ProductBalonluNylonTorba from '../components/ProductBalonluNylonTorba';
 import ProductBaskiliCanta from '../components/ProductBaskiliCanta';
 import ProductStrencFilm from '../components/ProductStrencFilm';
 import ProductKoliBandi from '../components/ProductKoliBandi';
-import ProductDetail9 from '../components/ProductDetail9';
-import ProductKartonKutu from '../components/ProductKartonKutu';
+import ProductCuval from '../components/ProductCuval';
+import ProductKoliler from '../components/ProductKoliler';
+import ProductDoypak from '../components/ProductDoypak';
+import ProductHisirPoset from '../components/ProductHisirPoset';
+import ProductKesimliKilitliKutu from '../components/ProductKesimliKilitliKutu';
+import ProductKilitliPoset from '../components/ProductKilitliPoset';
+import ProductOfsetSivamaliKutular from '../components/ProductOfsetSivamaliKutular';
+import ProductYumusakSapliPoset from '../components/ProductYumusakSapliPoset';
+import ProductKartonBardak from '../components/ProductKartonBardak';
+import ProductKeseKagidi from '../components/ProductKeseKagidi';
+import ProductAtletPoset from '../components/ProductAtletPoset';
+
+
 
 
 
@@ -26,26 +36,35 @@ const AppRouter = () => {
         <BrowserRouter>
             <Header></Header>
             <Switch>
-                <Route component={HomePage} path="/newbox" exact/>
-                <Route component={ProductPage} path="/product" exact/>
-                <Route component={ProductKartonKutu} path="/product/product1"/>
-                <Route component={ProductRuloKarton} path="/product/product2"/>
-                <Route component={ProductBalonluNylon} path="/product/product3"/>
-                <Route component={ProductKesimliKutu} path="/product/product4"/>
-                <Route component={ProductBalonluNylonTorba} path="/product/product5"/>
-                <Route component={ProductBaskiliCanta} path="/product/product6"/>
-                <Route component={ProductStrencFilm} path="/product/product7"/>
-                <Route component={ProductKoliBandi} path="/product/product8"/>
-                <Route component={ProductDetail9} path="/product/product9"/>
-                <Route component={AboutPage} path="/about" />
-                <Route component={ContactPage} path="/contact"/>
+                <Route component={HomePage} path="/" exact/>
+                <Route component={ProductPage} path="/urunler" exact/>
+                <Route component={ProductKoliler} path="/koli"/>
+                <Route component={ProductRuloKarton} path="/rulo-karton"/>
+                <Route component={ProductBalonluNylon} path="/balonlu-naylon"/>
+                <Route component={ProductBalonluNylonTorba} path="/balonlu-patpat-naylon-torba"/>
+                <Route component={ProductBaskiliCanta} path="/kraft-canta"/>
+                <Route component={ProductStrencFilm} path="/strec-film"/>
+                <Route component={ProductKoliBandi} path="/koli-bandi"/>
+                <Route component={ProductCuval} path="/cuval"/>
+                <Route component={ProductDoypak} path="/doypak"/> 
+                <Route component={ProductHisirPoset} path="/hisir-posetler"/>
+                <Route component={ProductKesimliKilitliKutu} path="/kesimli-kilitli-kutular"/>
+                <Route component={ProductKilitliPoset} path="/kilitli-poset"/>
+                <Route component={ProductOfsetSivamaliKutular} path="/ofset-sivamali-kutular"/>
+                <Route component={ProductYumusakSapliPoset} path="/yumusak-sapli-posetler"/>
+                <Route component={ProductKartonBardak} path="/karton-bardak"/>
+                <Route component={ProductKeseKagidi} path="/kese-kagidi"/>
+                <Route component={ProductAtletPoset} path="/atlet-poset"/>
+
+                <Route component={AboutPage} path="/hakkimizda" />
+                <Route component={ContactPage} path="/iletisim"/>
                 
                 <Route component={NotFoundPage} path=""/>
             </Switch>
             <Footer></Footer>
         </BrowserRouter>
 
-            
+
         
     )
 }

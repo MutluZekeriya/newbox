@@ -11,8 +11,11 @@ const ProductStrencFilm = () => {
                     </div>
                     <div className="col-md-8 col-sm-12">
                     <h2> Streç Film</h2>
-                    <p>Streç Film istenilen boyutlarda ve istediğiniz kalitede sizlere sunmaktayız. 
-                        Ürünlerimiz geri dönüşüme uygun olan malzemelerden üretilmiştir.</p>
+                    <p>                        
+                        Taşıma ve depolama esnasında palteli ürünlerin korunması için kullanılan bir malzemedir. 
+                        17 ve 23 micron standart kalınlıklarda çeşitlerimiz varddır. Siyah, mavi, beyaz ve şeffaf renkleri mevcuttur. 
+                        Ürün hakkında daha fazla bilgi için bizimle iletişime geçebilirsiniz.
+                    </p>
                     </div>
                 </div>
             </div>

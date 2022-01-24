@@ -10,11 +10,12 @@ const About = () => {
                             <div className="card-body">
                                 <h5 className="card-title">Hakkımızda</h5>
                                 <div className="title-bottom-line"></div>
-                                <p className="card-text">2000 Yılında kurulan Newbox, sektörde oldukça
-                                    kaliteli bir nokta yakalamıştır. Kuruluş yıllarında yalnızca güneş enerjisi ürünleri
-                                    satmak hedefi olan firmanın şimdi satış öncesi keşif, projelendirme ve satış sonrası
-                                    destek hizmetlerinde de samimi bir noktaya ulaşmıştır.</p>
-
+                                <p>
+                                    Newbox sektöre girdiği günden bu yana müşteri memnuniyetini esas alarak ilerlemeyi hedef edinmiştir.
+                                    Ambalaj sektöründe rulo karton, kesimli kutu, doypak, koli bandı, koli çeşitleri,
+                                    streç film, balonlu naylon, kraft  çanta, ofset sıvamalı kutular, poşet çeşitleri vb. birçok ürün
+                                    çeşitleri ile sizlere hizmet etmekteyiz.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -23,8 +24,8 @@ const About = () => {
                             <div className="card-body">
                                 <h5 className="card-title">İletişim Bilgileri</h5>
                                 <div className="title-bottom-line"></div>
-                                <p className="card-text"> <span>Adres :  </span> &nbsp;&nbsp; 15 Temmuz Mah. 1481 Sokak No:72 Bağcılar / İstanbul </p>
-                                <p className="card-text"> <span>Telefon :  </span> &nbsp;&nbsp; 0212 212 00 00 </p>
+                                <p className="card-text"> <span>Adres :  </span> &nbsp;&nbsp; 15 Temmuz Mah. 1481 Sokak No:72/A Bağcılar / İstanbul </p>
+                                <p className="card-text"> <span>Telefon :  </span> &nbsp;&nbsp; 0212 550 55 30 </p>
                                 <p className="card-text"> <span>Email :  </span> &nbsp;&nbsp; info@newbox.com </p>
                             </div>
                         </div>

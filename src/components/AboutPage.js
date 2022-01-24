@@ -17,7 +17,7 @@ const AboutPage = () => {
                             <div className="col-md-6 col-sm-6 col-6 pt-3">
                                 <nav aria-label="breadcrumb">
                                     <ul class="breadcrumb justify-content-end  page-title-link">
-                                        <li className="breadcrumb-item"><Link to="/newbox"> Newbox </Link></li>
+                                        <li className="breadcrumb-item"><Link to="/"> Newbox </Link></li>
                                         <li className="breadcrumb-item active" aria-current="page">Hakkımızda</li>
                                     </ul>
                                 </nav>
@@ -32,17 +32,22 @@ const AboutPage = () => {
                         <div className="col-md-6">
                             <h1> Tarihimiz   </h1>
                             <div className="title-bottom-line"></div>
-                            <p>2000 Yılında kurulan Newbox, sektörde oldukça
-                                kaliteli bir nokta yakalamıştır. Kuruluş yıllarında yalnızca
-                                güneş enerjisi ürünleri satmak hedefi olan firmanın şimdi
-                                satış öncesi keşif, projelendirme ve satış sonrası destek
-                                hizmetlerinde de samimi bir noktaya ulaşmıştır. 2009 Yılında
-                                Firmanın ürün yelpazesi oldukça gelişmiş güneş enerjisinde
-                                sıcak su üretme, güneş enerjisinden elektirik enerjisi üretme,
-                                alternatif enerji kaynakları ve bunun yanında mekanik tesisatlar
-                                konusundada bir açılım yaparak bu güne kadar türkiyenin en iyi
-                                firmalarıyla çalışarak kalitesini ispatlamıştır. Newbox, ilkeleleri kaliteli ürünler satmak ve dürüst
-                                hizmet vermektir. </p>
+                            <p>
+                                    Newbox sektöre girdiği günden bu yana müşteri memnuniyetini esas alarak ilerlemeyi hedef edinmiştir.
+                                    Müşterilerinin isteklerine ve zamanlarını değer vererek onlara verdiği mutluluğu kendi mutluluğu
+                                    olarak görmüştür. Bundan dolayı kaliteli ürün ve zamanında teslimatı gaye edinmiştir.
+                                    
+                                </p>
+                                <p>
+                                    Ambalaj sektöründe bulunduğumuz bu güne kadar sizlere en iyi ürünleri sunmaya çalışmaktayız. Ürünlerimizin 
+                                    geri dönüşüme uygun malzemelerden üretilmesi konusunda hassasiyetimiz en üst seviyede bulunmaktadır. 
+    
+                                </p>
+                                <p>
+                                    Ambalaj sektöründe rulo karton, kesimli kutu, doypak, koli bandı, koli çeşitleri,
+                                    streç film, balonlu naylon, kraft  çanta, ofset sıvamalı kutular, poşet çeşitleri vb. birçok ürün
+                                    çeşitleri ile sizlere hizmet etmekteyiz.
+                                </p>
                         </div>
                         <div className="col-md-6">
                             <img className="img-fluid rounded" src={Company} alt="" />

@@ -13,7 +13,7 @@ const ContactPage = () => {
                         <div className="col-md-6 col-sm-6 col-6 pt-3">
                             <nav aria-label="breadcrumb">
                                 <ul class="breadcrumb justify-content-end page-title-link">
-                                    <li className="breadcrumb-item"><Link to="/newbox"> Newbox </Link></li>
+                                    <li className="breadcrumb-item"><Link to="/"> Newbox </Link></li>
                                     <li className="breadcrumb-item active" aria-current="page">İletişim</li>
                                 </ul>
                             </nav>
@@ -32,10 +32,10 @@ const ContactPage = () => {
                             <div className="card-body">
                                 <h5 className="card-title">İletişim Bilgileri</h5>
                                 <div className="title-bottom-line"></div>
-                                <p className="card-text"> <span>Adres :  </span> &nbsp;&nbsp; 15 Temmuz Mah. 1481 Sokak No:72 Bağcılar / İstanbul </p>
-                                <p className="card-text"> <span>Telefon :  </span> &nbsp;&nbsp; 0212 212 00 00 </p>
+                                <p className="card-text"> <span>Adres :  </span> &nbsp;&nbsp; 15 Temmuz Mah. 1481 Sokak No:72/A Bağcılar / İstanbul </p>
+                                <p className="card-text"> <span>Telefon :  </span> &nbsp;&nbsp; 0212 550 55 30 </p>
                                 <p className="card-text"> <span>Email :  </span> &nbsp;&nbsp; info@newbox.com </p>
-                                <p className="card-text"> <span>Twitter :  </span> &nbsp;&nbsp; @newbox </p>
+                                
                             </div>
                         </div>
                     </div>

@@ -14,7 +14,7 @@ body {
 }
 /* dark background için */
 .my-bg-dark{
-  background-image:  linear-gradient(rgba(0,0,0, .9),rgba(0,0,0, .9)), url('./img/main_bg.jpg');
+  background-image:  linear-gradient(rgba(0,0,0, .9),rgba(0,0,0, .9)), url('./img/contact_bg.jpg');
   background-size: cover;
   background-position: center center;
   background-attachment: fixed;
@@ -64,6 +64,10 @@ body {
 /* slider section */
 .carousel-indicators [data-bs-target]{
   background-color:  #3a3937 !important;
+ 
+}
+.carousel-indicators{
+  left: 30%;
 }
 .carousel-control-prev, .carousel-control-next {
   width: 5% !important;
@@ -81,10 +85,26 @@ body {
 #products .product-img{
   height: 200px;
   width: auto;
-  margin: 0 auto;;
+  margin: 0 auto;
+  border: 1px solid gainsboro;
+  padding: 5px;
+  transition: all .5s ease-in-out;
+}
+#products .product-img:hover{
+  transform: scale(1.1);
 }
 #products  .card{
   margin: 0 auto;
+}
+#products .products-item .btn{
+  width: 200px;
+  margin: 0 auto;
+  display: block;
+  transition: all .5s ease-in-out;
+}
+#products .products-item .btn:hover{
+  color:#fff;
+  background-color: #000;
 }
 #product-details img{
   height: 400px;
@@ -127,4 +147,23 @@ footer .footer{
   .page-title-link{
     font-size: 14px;
   }
+  
+
  }
+
+ @media (max-width: 575.98px) { 
+   /* divider */
+  #divider p{
+    text-align: center;
+  }
+  
+  #btn-divider {
+    margin: 0 auto;
+    display: block;
+    width: 200px;
+  }
+ }
+
+
+
+ 

@@ -10,10 +10,10 @@ const ProductKartonBardak = () => {
                         <img className="img-fluid" src={KartonBardak} alt="ürün1" />
                     </div>
                     <div className="col-md-8 col-sm-12">
-                        <h2> Yumuşak Saplı Poşet</h2>
+                        <h2> Karton Bardak </h2>
                         <p>
-                            Sıcak ve soguk içeçekler için kullanılır. Geri dönüşüme uygundur. Baskılı ve baskısız üretilmektedir. Farklı ebatları mevcuttur.
-                            Her türlü renkte üertilmektedir.  Daha fazla bilgi almak için bizimle iletişime geçebilirsiniz..
+                            Sıcak ve soğuk içeçekler için kullanılır. Geri dönüşüme uygundur. Baskılı ve baskısız üretilmektedir. Farklı ebatları mevcuttur.
+                            Her türlü renkte üretilmektedir.  Daha fazla bilgi almak için bizimle iletişime geçebilirsiniz..
                         </p>
                     </div>
                 </div>

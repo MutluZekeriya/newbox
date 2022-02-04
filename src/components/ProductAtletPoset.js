@@ -12,7 +12,8 @@ const ProductAtletPoset = () => {
                     <div className="col-md-8 col-sm-12">
                     <h2> Hışır Atlet Poşet</h2>
                     <p>
-                        İstenilen ebatlarda baskılı yada baskısız olarak üretilebilir. Her renk üretilebilir. Doga da çözülebilen hammadden üretilmektedir. Daha fazla bilgi için bizimle iletişime geçebilirsiniz.
+                        İstenilen ebatlarda baskılı yada baskısız olarak üretilebilir. Her renk üretilebilir. 
+                        Doğa da çözülebilen hammaddeden üretilmektedir. Daha fazla bilgi için bizimle iletişime geçebilirsiniz.
                     </p>
                     </div>
                 </div>

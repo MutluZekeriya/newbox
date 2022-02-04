@@ -6,16 +6,16 @@ const ProductKoliler = () => {
         <section id="product-details">
             <div className="container">
                 <div className="row py-5">
-                    <div className="col-md-4 col-sm-12 mb-3">
+                    <div className="col-md-5 col-sm-12 mb-3">
                         <img className="img-fluid" src={KartonKutu} alt="Koli" />
                     </div>
-                    <div className="col-md-8 col-sm-12">
+                    <div className="col-md-7 col-sm-12">
                     <h2 id="karton"> Koli </h2>
                     <p>
-                    koli kağıtlarının kalitesi kraft, testliner ve saman şeklindedir. kolilerimiz geri dönüşümlü kağıttan üretilmektedir. 
-                    İstediğiniz kalitede üretim yapılmaktadır. Kolilerimiz ihraçat için ve iç piyasada kullanılan  değişik gramajlarda üretilir. 
-                    İstenilen öşçülerde, Baskılı veya baskısız olarak üretilir. Tekstil kolisi, taşıma kolisi, arşiv kolisi ve 
-                    kesimli koli gibi standart ölçüleri olan koliler üretimektedir. 
+                    Koli kağıtlarının kalitesi kraft, testliner ve saman şeklindedir. kolilerimiz geri dönüşümlü kağıttan üretilmektedir. 
+                    İstediğiniz kalitede üretim yapılmaktadır. Kolilerimiz ihracat için ve iç piyasada kullanılan  değişik gramajlarda üretilir. 
+                    İstenilen ölçülerde, baskılı veya baskısız olarak üretilir. Tekstil kolisi, taşıma kolisi, arşiv kolisi ve 
+                    kesimli koli gibi standart çeşitleri olan koliler üretimektedir. 
                     </p>
                     <ul>
                             <h4> Koli Çeşitlerimiz </h4>
@@ -28,7 +28,7 @@ const ProductKoliler = () => {
                             <li> Tripleks koliler </li>
                             <li> Pizza kutusu </li>
                             <li> Kilitli kutu </li>
-                            <li> Kolilerde diğer ölçüler ve çeşitlerimiz bulunmaktadır. </li>
+                            <li> Koliler ve kutular istenilen ebatlarda üretilmektedir. </li>
                         </ul> 
                         <p>
                             Daha fazla bilgi almak için bizimle iletişime geçebilirsiniz..

@@ -8,7 +8,7 @@ const Footer = () => {
             <div className="container-fluid py-4 text-center footer">
                 <div className="container">
                     <div className="row g-0">
-                        <small> &copy; NexBox A.Ş. Tüm Hakları Saklıdır. İzinsiz ürün resimleri ve site içerikleri kullanılamaz.</small>
+                        <small> &copy; NewBox Tüm Hakları Saklıdır. İzinsiz ürün resimleri ve site içerikleri kullanılamaz.</small>
                     </div>
                 </div>
             </div>

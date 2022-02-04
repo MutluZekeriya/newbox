@@ -12,8 +12,8 @@ const ProductStrencFilm = () => {
                     <div className="col-md-8 col-sm-12">
                     <h2> Streç Film</h2>
                     <p>                        
-                        Taşıma ve depolama esnasında palteli ürünlerin korunması için kullanılan bir malzemedir. 
-                        17 ve 23 micron standart kalınlıklarda çeşitlerimiz varddır. Siyah, mavi, beyaz ve şeffaf renkleri mevcuttur. 
+                        Taşıma ve depolama esnasında paletli ürünlerin korunması için kullanılan bir malzemedir. 
+                        17 ve 23 micron standart kalınlıklarda çeşitlerimiz vardır. Şeffaf, mavi, beyaz ve siyah renkleri mevcuttur. 
                         Ürün hakkında daha fazla bilgi için bizimle iletişime geçebilirsiniz.
                     </p>
                     </div>

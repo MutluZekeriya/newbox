@@ -12,7 +12,7 @@ const ProductBalonluNylonTorba = () => {
                     <div className="col-md-8 col-sm-12">
                         <h2> Balonlu Patpat ( Naylon ) Torba </h2>
                         <p> Rulo halinde üretilir ve daha sonra kesimi yapılır. Ürünlerin  korumasında kullanılır.
-                            Korga firmaları, e-ticaret firmaları, sağlık sektörü ve daha farklı bir çok sektörde ambalaj maalzemesi
+                            Kargo firmaları, e-ticaret firmaları, sağlık sektörü ve daha farklı bir çok sektörde ambalaj malzemesi
                             olarak kullanılır.
                             Her türlü ölçüde üretimi yapılmaktadır. 
                             Daha fazla bilgi almak bizimle iletişime geçebilirsiniz.

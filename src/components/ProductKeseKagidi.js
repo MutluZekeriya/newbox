@@ -10,9 +10,9 @@ const ProductKeseKagidi = () => {
                         <img className="img-fluid" src={KeseKagidi} alt="ürün1" />
                     </div>
                     <div className="col-md-8 col-sm-12">
-                    <h2> Kese Kagıdı</h2>
+                    <h2> Kese Kağıdı</h2>
                     <p>                        
-                    Kese kagıdı pastaneler, şarküteriler, fırınlar ve resturantlarda kullanılır. 
+                    Kese kağıdı pastaneler, şarküteriler, fırınlar ve resturantlarda kullanılır. 
                     Farklı ebatlarda baskılı ve baskısız olarak üretilmektedir.
                     Daha fazla bilgi almak için bizimle iletişime geçebilirsiniz...
                     </p>

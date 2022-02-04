@@ -34,7 +34,8 @@ const ContactPage = () => {
                                 <div className="title-bottom-line"></div>
                                 <p className="card-text"> <span>Adres :  </span> &nbsp;&nbsp; 15 Temmuz Mah. 1481 Sokak No:72/A Bağcılar / İstanbul </p>
                                 <p className="card-text"> <span>Telefon :  </span> &nbsp;&nbsp; 0212 550 55 30 </p>
-                                <p className="card-text"> <span>Email :  </span> &nbsp;&nbsp; info@newbox.com </p>
+                                <p className="card-text"> <span>Email :  </span> &nbsp;&nbsp; info@newbox.com.tr </p>
+                                <p className="card-text"> <span>Web :  </span> &nbsp;&nbsp; www.newbox.com.tr </p>
                                 
                             </div>
                         </div>

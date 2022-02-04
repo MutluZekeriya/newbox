@@ -17,11 +17,10 @@ const ProductOfsetSivamaliKutular = () => {
                         <ul>
                             <h4> Ofset Sıvamalı Kutu Çeşitlerimiz </h4>
                             <li> Ofset kutu </li>
-                            <li> Ofset koli </li>
                             <li> Ofset baskılı kutu </li>
-                            <li> Sıvamalı kutu </li>
-                            <li> Selefonlu ambalaj  </li>
-                            <li> Endüstriyel tasarım vb. Şeklindedir </li>
+                            <li> Sıvamalı </li>
+                            <li> Selefonlu </li>
+                            <li> Endüstriyel tasarım vb. şeklindedir </li>
                         </ul>
                         <p>
                             Daha fazla bilgi almak için bizimle iletişime geçebilirsiniz..

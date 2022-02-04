@@ -44,8 +44,8 @@ const AboutPage = () => {
     
                                 </p>
                                 <p>
-                                    Ambalaj sektöründe rulo karton, kesimli kutu, doypak, koli bandı, koli çeşitleri,
-                                    streç film, balonlu naylon, kraft  çanta, ofset sıvamalı kutular, poşet çeşitleri vb. birçok ürün
+                                    Ambalaj sektöründe koli çeşitleri, rulo karton, ofset baskılı kutular, kesimli kutu, koli bandı,
+                                    streç film, balonlu naylon, çuval, doypak, kraft  çanta,  poşet çeşitleri vb. birçok ürün
                                     çeşitleri ile sizlere hizmet etmekteyiz.
                                 </p>
                         </div>

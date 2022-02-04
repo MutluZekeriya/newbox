@@ -12,8 +12,8 @@ const ProductDoypak = () => {
                     <div className="col-md-8 col-sm-12">
                     <h2> Doypak </h2>
                     <p>
-                    dogal kraft kagıt ile üretilmiştir.  Firesiz dolum imkanına sahiptir. 
-                    Yeniden kapatılabilen kilit sistemine sahiptir. Özel tsaasrım baskısı yapılabilir. 
+                    Doğal kraft kağıt ile üretilmiştir.  Firesiz dolum imkanına sahiptir. 
+                    Yeniden kapatılabilen kilit sistemine sahiptir. Özel tasarım baskısı yapılabilir. 
                     İstenilen ölçülerde üretilir. 
                     </p>
                     <ul>
@@ -23,7 +23,7 @@ const ProductDoypak = () => {
                             <li> Kahve ambalajları </li>
                             <li> Pet mama ambalajları </li>
                             <li> Baharat ambalajları </li>
-                            <li> Tesktil ambalajları </li>
+                            <li> Tekstil ambalajları </li>
                             <li> Şekerleme amalajları </li>
                             <li> Bebek ürünleri ambalajları </li>
                             <li> Aromatik bitki ve çay ambalajları kullanılır. </li>

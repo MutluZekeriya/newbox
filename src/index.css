@@ -141,27 +141,34 @@ footer .footer{
  }
 
 @media (max-width: 767.98px) { 
-  .page-title{
-    font-size: 16px;
-  }
-  .page-title-link{
-    font-size: 14px;
-  }
-  
+    .page-title{
+      font-size: 16px;
+    }
+    .page-title-link{
+      font-size: 14px;
+    }
+    .carousel-indicators{
+      display: none !important;
+    }
+    #product-details img{
+      margin: 0 auto;
+      display: block;
+    } 
 
  }
 
  @media (max-width: 575.98px) { 
-   /* divider */
-  #divider p{
-    text-align: center;
-  }
+    /* divider */
+    #divider p{
+      text-align: center;
+    }
+    
+    #btn-divider {
+      margin: 0 auto;
+      display: block;
+      width: 200px;
+    }
   
-  #btn-divider {
-    margin: 0 auto;
-    display: block;
-    width: 200px;
-  }
  }
 
 

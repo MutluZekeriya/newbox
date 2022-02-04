@@ -12,9 +12,9 @@ const ProductKoliBandi = () => {
                     <div className="col-md-8 col-sm-12">
                         <h2> Koli Bandı </h2>
                         <p>
-                            Hotmelt, akrilik ve solvent(dogal kauçuk) bant çeşitlerimiz bulunmaktadır. Koli kapatma ve paketleme amaçlı kullanılmaktadır.
-                            Sıcak ve soguk depolama koşıullarına uygun, el ile kopan ya da filmik yüzeye yapışabilen versiyonları vardır. Bant çeşitlerimiz
-                            baskılı ya da baskısız şekilde üretilir. Renk çeşitlerimiz şeffaf, kahve ve diğer renlleriöiz bulumaktadır...
+                            Hotmelt, akrilik ve solvent (doğal kauçuk) bant çeşitlerimiz bulunmaktadır. Koli kapatma ve paketleme amaçlı kullanılmaktadır.
+                            Sıcak ve soğuk depolama koşullarına uygun, el ile kopan ya da filmik yüzeye yapışabilen versiyonları vardır. Bant çeşitlerimiz
+                            baskılı ya da baskısız şekilde üretilir. Renk çeşitlerimiz şeffaf, kahve ve diğer renklerimiz bulumaktadır...
                             Beş renk baskı yapılabilir..
                         </p>
                         <ul>
@@ -27,7 +27,7 @@ const ProductKoliBandi = () => {
                             <li> Baskısız Renkli Bantlar </li>
                             <li> Maskeleme Bantları </li>
                             <li> Çift Taraflı Bantlar </li>
-                            <li> Koli bantlarında daha birçok çeşitlerimiz bulunmaktadır. </li>
+                            <li> Değişik amaçlı bant çeşitlerimiz bulunmaktır. </li>
                         </ul>
                         <p>
                             Daha fazla bilgi almak için bizimle iletişime geçebilirsiniz..

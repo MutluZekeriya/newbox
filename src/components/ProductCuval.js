@@ -18,11 +18,11 @@ const ProductCuval = () => {
                         <ul>
                             <h4>Çuval Çeşitlerimiz</h4>
                             <li> Standart çuval </li>
+                            <li> Tesktil çuvalı </li>
                             <li> Un cuvalı </li>
                             <li> Moloz cuvalı </li>
                             <li> Kum çuvalı </li>
-                            <li> Jüt çuvalı </li>
-                            <li> Tekstil çuvalı </li>
+                            <li> Jüt çuvalı </li>                       
                             <li> Şeker çuvalı </li>
                             <li> Yem çuvalı </li>
                             <li> Diğer çuval ölçüleri ve çeşitlerimiz bulunmaktadır. </li>

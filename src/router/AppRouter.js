@@ -1,5 +1,6 @@
 import React from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
+import ScrollToTop from '../components/ScrollToTop';
 import Header from '../components/Header';
 import HomePage from '../components/HomePage';
 import ProductPage from '../components/ProductPage';
@@ -31,10 +32,12 @@ import ProductAtletPoset from '../components/ProductAtletPoset';
 
 
 
+
 const AppRouter = () => {
     return (
         <BrowserRouter>
             <Header></Header>
+            <ScrollToTop>
             <Switch>
                 <Route component={HomePage} path="/" exact/>
                 <Route component={ProductPage} path="/urunler" exact/>
@@ -61,6 +64,7 @@ const AppRouter = () => {
                 
                 <Route component={NotFoundPage} path=""/>
             </Switch>
+            </ScrollToTop>
             <Footer></Footer>
         </BrowserRouter>
 

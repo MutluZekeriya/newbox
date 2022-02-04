@@ -20,9 +20,7 @@ import HisirAtletPoset from '../img/hisir-atlet-poset.png'
 
 const Products = () => {
     return (
-        <div id="products" className="container pt-5">
-            <h2 className="display-4 text-uppercase mb-4">ÜRÜNLERİMİZ</h2>
-            <div className="title-bottom-line justify-content-center"></div>
+        <div id="products" className="container pt-5">           
             <div className="row">
                 <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
                     <div className="card mb-5 border-0">
@@ -44,6 +42,33 @@ const Products = () => {
                 </div>
                 <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
                     <div className="card mb-5 border-0">
+                        <img src={OfsetSivamaliKutular} className="card-img-top product-img img-fluid" alt="Kilitli Poşet" />
+                        <div className="card-body">
+                            <h5 className="card-title text-center"> Ofset Sıvamalı Kutular  </h5>
+                            <Link className="btn btn-warning" to="/ofset-sivamali-kutular">Ürün Detayı</Link>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
+                    <div className="card mb-5 border-0">
+                        <img src={KoliBandi} className="card-img-top product-img img-fluid" alt="Koli Bandı" />
+                        <div className="card-body">
+                            <h5 className="card-title text-center"> Koli Bandı </h5>
+                            <Link className="btn btn-warning" to="/koli-bandi">Ürün Detayı</Link>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
+                    <div className="card mb-5 border-0">
+                        <img src={StrecFilm} className="card-img-top product-img img-fluid" alt="Streç Film" />
+                        <div className="card-body">
+                            <h5 className="card-title text-center"> Streç Film </h5>
+                            <Link className="btn btn-warning" to="/strec-film">Ürün Detayı</Link>
+                        </div>
+                    </div>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
+                    <div className="card mb-5 border-0">
                         <img src={BalonluNaylon} className="card-img-top product-img img-fluid" alt="Balonlu Naylon" />
                         <div className="card-body">
                             <h5 className="card-title text-center"> Balonlu Naylon </h5>
@@ -59,34 +84,7 @@ const Products = () => {
                             <Link className="btn btn-warning" to="/balonlu-patpat-naylon-torba">Ürün Detayı</Link>
                         </div>
                     </div>
-                </div>
-                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
-                    <div className="card mb-5 border-0">
-                        <img src={BaskiliCanta} className="card-img-top product-img img-fluid" alt="Kraft Çanta" />
-                        <div className="card-body">
-                            <h5 className="card-title text-center"> Kraft Çanta </h5>
-                            <Link className="btn btn-warning" to="/kraft-canta">Ürün Detayı</Link>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
-                    <div className="card mb-5 border-0">
-                        <img src={StrecFilm} className="card-img-top product-img img-fluid" alt="Streç Film" />
-                        <div className="card-body">
-                            <h5 className="card-title text-center"> Streç Film </h5>
-                            <Link className="btn btn-warning" to="/strec-film">Ürün Detayı</Link>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
-                    <div className="card mb-5 border-0">
-                        <img src={KoliBandi} className="card-img-top product-img img-fluid" alt="Koli Bandı" />
-                        <div className="card-body">
-                            <h5 className="card-title text-center"> Koli Bandı </h5>
-                            <Link className="btn btn-warning" to="/koli-bandi">Ürün Detayı</Link>
-                        </div>
-                    </div>
-                </div>
+                </div>                                           
                 <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
                     <div className="card mb-5 border-0">
                         <img src={Cuval} className="card-img-top product-img img-fluid" alt="Çuval" />
@@ -98,22 +96,22 @@ const Products = () => {
                 </div>
                 <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
                     <div className="card mb-5 border-0">
+                        <img src={BaskiliCanta} className="card-img-top product-img img-fluid" alt="Kraft Çanta" />
+                        <div className="card-body">
+                            <h5 className="card-title text-center"> Kraft Çanta </h5>
+                            <Link className="btn btn-warning" to="/kraft-canta">Ürün Detayı</Link>
+                        </div>
+                    </div>
+                </div>  
+                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
+                    <div className="card mb-5 border-0">
                         <img src={Doypak} className="card-img-top product-img img-fluid" alt="Doypak" />
                         <div className="card-body">
                             <h5 className="card-title text-center"> Doypak </h5>
                             <Link className="btn btn-warning" to="/doypak">Ürün Detayı</Link>
                         </div>
                     </div>
-                </div>
-                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
-                    <div className="card mb-5 border-0">
-                        <img src={HısırPosetler} className="card-img-top product-img img-fluid" alt="Hışır Poşetler" />
-                        <div className="card-body">
-                            <h5 className="card-title text-center"> Hışır Poşetler </h5>
-                            <Link className="btn btn-warning" to="/hisir-posetler">Ürün Detayı</Link>
-                        </div>
-                    </div>
-                </div>
+                </div>                
                 <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
                     <div className="card mb-5 border-0">
                         <img src={KesimliKutu} className="card-img-top product-img img-fluid" alt="Kesimli ve Kilitli Kutular" />
@@ -131,25 +129,7 @@ const Products = () => {
                             <Link className="btn btn-warning" to="/kilitli-poset">Ürün Detayı</Link>
                         </div>
                     </div>
-                </div>
-                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
-                    <div className="card mb-5 border-0">
-                        <img src={OfsetSivamaliKutular} className="card-img-top product-img img-fluid" alt="Kilitli Poşet" />
-                        <div className="card-body">
-                            <h5 className="card-title text-center"> Ofset Sıvamalı Kutular  </h5>
-                            <Link className="btn btn-warning" to="/ofset-sivamali-kutular">Ürün Detayı</Link>
-                        </div>
-                    </div>
-                </div>
-                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
-                    <div className="card mb-5 border-0">
-                        <img src={YumusakSapliPoset} className="card-img-top product-img img-fluid" alt="Kilitli Poşet" />
-                        <div className="card-body">
-                            <h5 className="card-title text-center"> Yumuşak Saplı Poşetler  </h5>
-                            <Link className="btn btn-warning" to="/yumusak-sapli-posetler">Ürün Detayı</Link>
-                        </div>
-                    </div>
-                </div>
+                </div>                
                 <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
                     <div className="card mb-5 border-0">
                         <img src={KartonBardak} className="card-img-top product-img img-fluid" alt="Kilitli Poşet" />
@@ -167,7 +147,25 @@ const Products = () => {
                             <Link className="btn btn-warning" to="/kese-kagidi">Ürün Detayı</Link>
                         </div>
                     </div>
-                </div>  
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
+                    <div className="card mb-5 border-0">
+                        <img src={HısırPosetler} className="card-img-top product-img img-fluid" alt="Hışır Poşetler" />
+                        <div className="card-body">
+                            <h5 className="card-title text-center"> Hışır Poşetler </h5>
+                            <Link className="btn btn-warning" to="/hisir-posetler">Ürün Detayı</Link>
+                        </div>
+                    </div>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
+                    <div className="card mb-5 border-0">
+                        <img src={YumusakSapliPoset} className="card-img-top product-img img-fluid" alt="Kilitli Poşet" />
+                        <div className="card-body">
+                            <h5 className="card-title text-center"> Yumuşak Saplı Poşetler  </h5>
+                            <Link className="btn btn-warning" to="/yumusak-sapli-posetler">Ürün Detayı</Link>
+                        </div>
+                    </div>
+                </div>
                 <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
                     <div className="card mb-5 border-0">
                         <img src={HisirAtletPoset} className="card-img-top product-img img-fluid" alt="Kilitli Poşet" />

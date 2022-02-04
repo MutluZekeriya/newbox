@@ -13,7 +13,7 @@ const ProductBalonluNylon = () => {
                     <h2> Balonlu Naylon</h2>
                     <p>
                         Ürünleri darbe çizilme, çarpma, tozlanma, nemlenme, sürtünme ve ezilmelerden koruyan malzemedir. 
-                        Balonlu Naylon ürünümüzün 100cm, 120cm ve 150cm ebatlarımız bulunmaktadır. 
+                        Balonlu Naylon ürünümüzün 100cm, 120cm ve 150cm ebatlarımız bulunmaktadır. Değişik gramlarda üretilmektedir.
                         Daha fazla bilgi almak için bizimle iletişime geçebilirsiniz..
                     </p>
                     </div>

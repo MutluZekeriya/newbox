@@ -12,8 +12,8 @@ const ProductBaskiliCanta = () => {
                     <div className="col-md-8 col-sm-12">
                     <h2> Kraft Çanta </h2>
                     <p>
-                    kraft ve karton çantaları ihtiyacınıza göre düz ve burgu saplı, baskılı ya da baskısız, her renkte üretilir. 
-                    İstediğiniz ebatlarda üritimi yapılmaktadır.
+                    Kraft ve karton çantaları ihtiyacınıza göre düz ve burgu saplı, baskılı ya da baskısız, her renkte üretilir. 
+                    İstediğiniz ebatlarda üretimi yapılmaktadır.
                     Kraft ve karton çantalar hakkında daha fazla bilgi almak için bizimle iletişime geçebilirsiniz.
                     </p>
                     </div>

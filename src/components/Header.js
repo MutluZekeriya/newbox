@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
-import Logo from '../img/logo.png';
+import Logo from '../img/logo-black.png';
 
 const Header = () => {
     return (
@@ -27,7 +27,7 @@ const Header = () => {
                                 <NavLink to="/hakkimizda" className="nav-link text-uppercase">HAKKIMIZDA</NavLink>
                             </li>
                             <li className="nav-item">
-                                <NavLink to="/iletisim" className="nav-link text-uppercase">İLETİŞiM</NavLink>
+                                <NavLink to="/iletisim" className="nav-link">İLETİŞİM</NavLink>
                             </li>
                         </ul>
 

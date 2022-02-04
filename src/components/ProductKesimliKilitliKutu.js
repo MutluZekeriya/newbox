@@ -12,7 +12,7 @@ const ProductKesimliKilitliKutu = () => {
                     <div className="col-md-8 col-sm-12">
                     <h2> Kesimli ve Kilitli Kutular</h2>
                     <p>
-                        Her türlü ölçüde baskılı ve baskısız üritimi yapılmaktadır. 
+                        Her türlü ölçüde baskılı ve baskısız üretimi yapılmaktadır. Daha fazla bilgi almak için bizimle iletişime geçebilirsiniz..
                     </p>
                     </div>
                 </div>

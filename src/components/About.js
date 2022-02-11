@@ -12,9 +12,8 @@ const About = () => {
                                 <div className="title-bottom-line"></div>
                                 <p>
                                     Newbox sektöre girdiği günden bu yana müşteri memnuniyetini esas alarak ilerlemeyi hedef edinmiştir.
-                                    Ambalaj sektöründe rulo karton, kesimli kutu, doypak, koli bandı, koli çeşitleri,
-                                    streç film, balonlu naylon, kraft  çanta, ofset sıvamalı kutular, poşet çeşitleri vb. birçok ürün
-                                    çeşitleri ile sizlere hizmet etmekteyiz.
+                                    Ambalaj sektöründe koli çeşitleri, rulo karton, ofset baskılı kutular, kesimli kutu, koli bandı, streç film, 
+                                    balonlu naylon, çuval, doypak, kraft çanta, poşet çeşitleri vb. birçok ürün çeşitleri ile sizlere hizmet etmekteyiz.
                                 </p>
                             </div>
                         </div>

@@ -30,8 +30,6 @@ const AboutPage = () => {
                 <div className="container py-5">
                     <div className="row">
                         <div className="col-md-6">
-                            <h1> Tarihimiz   </h1>
-                            <div className="title-bottom-line"></div>
                             <p>
                                     Newbox sektöre girdiği günden bu yana müşteri memnuniyetini esas alarak ilerlemeyi hedef edinmiştir.
                                     Müşterilerinin isteklerine ve zamanlarını değer vererek onlara verdiği mutluluğu kendi mutluluğu
@@ -47,6 +45,21 @@ const AboutPage = () => {
                                     Ambalaj sektöründe koli çeşitleri, rulo karton, ofset baskılı kutular, kesimli kutu, koli bandı,
                                     streç film, balonlu naylon, çuval, doypak, kraft  çanta,  poşet çeşitleri vb. birçok ürün
                                     çeşitleri ile sizlere hizmet etmekteyiz.
+                                </p>
+
+                                <ul>
+                                    <h4>DEĞERLERİMİZ</h4>
+                                    <li> Yeniliklere açık olmak,  </li>
+                                    <li> Müşterinin yanında olmak,  </li>
+                                    <li> Adaletli olmak, </li>
+                                    <li> Farklı olmak ve farklılığı hissettirmek , </li>
+                                    <li> İnanmadığımız işi yapmamak, </li>
+                                    <li> Ülkemize değer katmak, </li>
+                                    <li> Veriye ve analize dayalı kararlar vermek, </li>
+                                    <li> Yasal mevzuatlara uygun davranmak, </li>
+                                </ul>
+                                <p>
+                                sektörün başarısına olan bağlılığımızla; küçük, orta ve uzun hedeflerle çalışıyor ve sektörümüzde tüm işbirlikçilerimize değer veriyoruz.
                                 </p>
                         </div>
                         <div className="col-md-6">

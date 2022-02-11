@@ -150,15 +150,6 @@ const Products = () => {
                 </div> 
                 <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
                     <div className="card mb-5 border-0">
-                        <img src={HısırPosetler} className="card-img-top product-img img-fluid" alt="Hışır Poşetler" />
-                        <div className="card-body">
-                            <h5 className="card-title text-center"> Hışır Poşetler </h5>
-                            <Link className="btn btn-warning" to="/hisir-posetler">Ürün Detayı</Link>
-                        </div>
-                    </div>
-                </div> 
-                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
-                    <div className="card mb-5 border-0">
                         <img src={YumusakSapliPoset} className="card-img-top product-img img-fluid" alt="Kilitli Poşet" />
                         <div className="card-body">
                             <h5 className="card-title text-center"> Yumuşak Saplı Poşetler  </h5>
@@ -174,7 +165,16 @@ const Products = () => {
                             <Link className="btn btn-warning" to="/atlet-poset">Ürün Detayı</Link>
                         </div>
                     </div>
-                </div>              
+                </div>   
+                <div className="col-sm-12 col-md-6 col-lg-4 p-0 products-item">
+                    <div className="card mb-5 border-0">
+                        <img src={HısırPosetler} className="card-img-top product-img img-fluid" alt="Hışır Poşetler" />
+                        <div className="card-body">
+                            <h5 className="card-title text-center"> Hışır Poşetler </h5>
+                            <Link className="btn btn-warning" to="/hisir-posetler">Ürün Detayı</Link>
+                        </div>
+                    </div>
+                </div>            
                 
 
             </div>
